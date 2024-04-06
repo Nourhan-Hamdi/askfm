@@ -4,10 +4,10 @@ This is my first OOP project with c++.It is a simple simulationof ASKfm app.
 ## I used:
 - classes & objects
 - structures
-- Inherutance
+- Inheritance
 - files
 ## How to use project:
-- first sign in if you have an account or sign up if you don't
+- First sign in if you have an account or sign up if you don't
 
 - Then a Menu will be shown you can do one of them:
     - 1- View questions forwarded to you
